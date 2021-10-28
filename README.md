@@ -1,4 +1,13 @@
 //Laravel MVC 準拠構成のネイティブアプリ
+
+//ローカル開発環境
+Vagrant
+VirtualBox
+Linux
+Apache
+PHP
+192.168.33.10
+
 //ディレクトリ構成
 
 phpFullScratch
